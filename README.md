@@ -1,0 +1,22 @@
+# Teknoizle
+Teknoseyir.com videolarını sık kullanılanlara eklemek için bir program.
+
+Program Edge için hazırlanmıştır.
+Eğer başka tarayıcılar için derlemek istiyorsanız şu adımları izleyiniz:
+Aşağıdaki kodlarda 'Edge' bölümlerini kendi tarayıcınızın adı ile değiştiriniz.
+
+-        using OpenQA.Selenium.Edge;
+-        IWebDriver driverts = new EdgeDriver();
+
+Örneğin;
+-        using OpenQA.Selenium.Firefox;
+-        IWebDriver driverts = new FirefoxDriver();
+
+Kullanımı:
+Çalıştırıldığında otomatik olarak http://teknoseyir.com/videolar bağlantısını açmaktadır.
+-        Programı açtıktan sonra "Aşağı Kaydır"a basarak istediğiniz kadar aşağı ininiz.
+Alternatif olarak "Otomatik kaydırma" "Açık" iken "Aşağı Kaydır" butonuna her basışta 20 kaydırma yapabilirsiniz.
+-        Eğer sitede en altta "Daha Fazla Göster" butonu çıkarsa "Daha Fazla Göster" butonuna basarak kaydırmaya devam ediniz.
+-        İstediğiniz sevyeye geldikten sonra "ListBox'a ekle" butonu ile linkleri ListBox'a ekleyiniz.
+-        "Dosyaya Kaydet" butonu ile kayıt yerini belirleyip ismini [isminiz].html olarak kaydediniz.
+-        HTML dosyasını kaydettikten sonra tarayıcınızın yer imlerine içe aktar ile ekleyebilirsiniz.
