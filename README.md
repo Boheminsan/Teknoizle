@@ -17,6 +17,6 @@ Kullanımı:
 -        Programı açtıktan sonra "Aşağı Kaydır"a basarak istediğiniz kadar aşağı ininiz.
 Alternatif olarak "Otomatik kaydırma" "Açık" iken "Aşağı Kaydır" butonuna her basışta 20 kaydırma yapabilirsiniz.
 -        Eğer sitede en altta "Daha Fazla Göster" butonu çıkarsa "Daha Fazla Göster" butonuna basarak kaydırmaya devam ediniz.
--        İstediğiniz sevyeye geldikten sonra "ListBox'a ekle" butonu ile linkleri ListBox'a ekleyiniz.
+-        İstediğiniz seviyeye geldikten sonra "ListBox'a ekle" butonu ile linkleri ListBox'a ekleyiniz.
 -        "Dosyaya Kaydet" butonu ile kayıt yerini belirleyip ismini [isminiz].html olarak kaydediniz.
 -        HTML dosyasını kaydettikten sonra tarayıcınızın yer imlerine içe aktar ile ekleyebilirsiniz.
